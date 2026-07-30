@@ -1,2 +1,1 @@
-# gnzyks-studio
-Editing website 
+
